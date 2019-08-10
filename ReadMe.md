@@ -48,4 +48,4 @@ The following dataFiles are also included:
 ## Requirements to run the code
 JRE Environment
 
-## Contributor: [Yash Saboo](https://github.com/yashsaboo) as a Member of [FORWARD Data Lab](http://www.forwarddatalab.org/)
+### Contributor: [Yash Saboo](https://github.com/yashsaboo) as a Member of [FORWARD Data Lab](http://www.forwarddatalab.org/)
