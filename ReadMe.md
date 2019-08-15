@@ -46,6 +46,6 @@ The following dataFiles are also included:
 	- KD.csv
 					
 ## Requirements to run the code
-JRE Environment
+Java Runtime Environment (JRE)
 
 ### Contributor: [Yash Saboo](https://github.com/yashsaboo) as a Member of [FORWARD Data Lab](http://www.forwarddatalab.org/)
